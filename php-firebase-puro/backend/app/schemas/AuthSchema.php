@@ -10,15 +10,14 @@ class AuthSchema
             return [
                 'ok' => false,
                 'message' => 'El usuario es obligatorio'
-            ]
-        };
+            ];
+        }
         if ($password === ''){
             return [
                 'ok' => false,
                 'message' => 'La contraseña es obligatoria'
-            ]
-        };
-        {
+            ];
+        }
             return [
             'ok' =>true,
             ];

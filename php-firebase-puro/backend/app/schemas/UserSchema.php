@@ -14,12 +14,12 @@ class UserSchema
                     'message' => "El campo {$field} es obligatorio"
                 ];
             }
-            return [
-                'ok' => true
-            ];
         }
+        return [
+            'ok' => true
+        ];
     }
-}
+
 
 public static function validateUpdate(array $data): array 
 {
@@ -28,9 +28,9 @@ public static function validateUpdate(array $data): array
             'ok' => false,
             'message' => 'No se recibieron datos'
         ];
-
     }
     return [
         'ok' => true
     ];
+   }
 }

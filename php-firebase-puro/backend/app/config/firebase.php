@@ -1,9 +1,9 @@
 <?php
 
 return [
-    'project_id' => 'TU_PROJECT_ID',
-    'client_email' => 'firebase-adminsdk-xxxxx@TU_PROJECT_ID.iam.gserviceaccount.com',
-    'private_key' => "-----BEGIN PRIVATE KEY-----\nTU_PRIVATE_KEY\n-----END PRIVATE KEY-----\n",
+    'project_id' => 'php-firebase-76f87',
+    'client_email' => 'firebase-adminsdk-fbsvc@php-firebase-76f87.iam.gserviceaccount.com',
+    'private_key' => "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDTJtLK2i/PTgTt\n1JPzXSy9ovrHdIKhtJl1Yu6N9ueQkmZ37IQOAHqAT4STUN+5c7FS573BOW4JWzYG\nYo/wUveyYEdvuTs6EwdVNxpwMFOmepFgFkyEgSeQEtL0haY0AFid/p8fwetlkux8\nsCuPOc9ZoW9dG9gz0C2vIRL9A8bJe38PlRzGJnKC8RSMNQAgFvTCmoonmKD6WKfN\nKrmZ5m9xfPqRtJY6D/6OOY97mTbiDQVJNTjSVdsi+GXImu4moJEEU4seEL4cXe65\nwE0Vda2C2tFCm2pNnny24s1dCxkObiy9sl2vb3li57ectBnKciArl6OMp4UC8h7+\nLmYqu5tNAgMBAAECggEADvu5yIg8DUdZhTDpAMNzWc+XYRDs9iGVJCXNjMhg/TrO\nR6NCaaXyC2nZHAUIoyXJBvuH1Q7ItqRAzKow0ZpplkBLwWtQ/xl7kznyR9S+Etmu\nuDVM37g0gP489voG5bjCkQ+Q5hWCKTaITn7H0IWHJ7KTbvV7XY3fuAYuTUL317Mp\nNZ/WYNaYyxkT/MJQWGNs8uSiKXUm+kXnlnEuKG00YhD37EhuZhAHTaH7Zxw0NCOR\n9bcMYP3roNOI0g/GKoc2yr83K2cJBYsqSOqvr4eJItE0iGpqAd2cMNuZJ/J0+ioe\nrFrQbVnhw6tSGqY/ZymkwTd2x5QSuYTqSh00mlfDhwKBgQDyt73DryPp0kd1snC0\nBr9Q60yx53QMBPqIvOjqdktkmtS1qC6qAS1EWjuYimBSX/fY7PWq1HCtNYPNLRlw\nhHTUyIOhqnKspoQ39UBez0ui720Grcx/WPUzQXnAeTmgag3x1ESPhnm5JRobuZJ5\nSn1Kq6uNjbtKbNijqA9GqtWR7wKBgQDetN6WLu33YW2kJOsEhpHju+nK0FnYHvZ5\nUqhUiqmrA0gg874WzVOAEE4q2OmpVyFcZsMPDJqjVL5oPhyoeLn2F1ClWdgCnuDa\nIZ1gLwgtgwiKAOXLXtCIb2TrxrEUa7nwhB0zItwzz8IBngbl+aMXrMYviSDkmLTk\ncttY4mLygwKBgQCasUKPukswViXXPKAaDQbYIu9hn3tVwcKPbZ8g9737Y7bYBFWh\nYligbMX45ZCYT7PeHMBCXV1m92mGVg0VqkXv69ABNGob4ZD5PSUGiCXTtbcN/60L\nKP416bAYXOq+c3lpvHjp5LIlryDhtLdG+JO8CIexEzjgKVk1jQIXbv/pHwKBgC/z\no8WUfzp3qOLh7BSCYSE20cUQjXfCWvGOgZ4KaTPgNgSaVsCUHzmAyUPihpUmpJE/\nsxonbZhjY8gQL516uReqt3uS17bgvKta94bBObKK9yi3vsLGPIJT8dfuZSxvcY6+\n84aSJ/Wj8zLj8rpLwPkVA2syzHlMBA74SBBgVku/AoGANN2XrmDVCNul1HwPx75j\nzmh7dGwdrIUY8B3ZrBRa2N1wYM/JSfPY6aElF93fW+X6kkDsyi+JFgcWx6iRe1u2\nJ99BGLKQBT3dqHgXVkK0VQ/rPG/5Gd9c4XlPrqo6Eq+raoepZ+5rB/WLW9epwNrY\nrQUlEnrR9jSbFxE1wJzjzr8=\n-----END PRIVATE KEY-----\n",
     'token_uri' => 'https://oauth2.googleapis.com/token',
     'firestore_base_url' => 'https://firestore.googleapis.com/v1',
     'collection_users' => 'users',
